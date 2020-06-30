@@ -1,7 +1,5 @@
 # awesome-gitlab-repo
 
-[TOC]
-
 + https://gitlab.com/anankke/bilibili-backup
 + https://gitlab.com/pastebin.run
 + https://gitlab.com/polychainlabs/threshold-ed25519
