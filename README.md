@@ -6,3 +6,4 @@
 + https://gitlab.com/thorchain/tss/go-tss
 + https://gitlab.com/tezos/tezos
 + https://gitlab.com/palisade/palisade-release
++ https://gitlab.com/NebulousLabs/Sia
