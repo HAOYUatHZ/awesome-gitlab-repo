@@ -9,3 +9,4 @@
 + https://gitlab.com/palisade/palisade-release
 + https://gitlab.com/NebulousLabs/Sia
     + https://github.com/NebulousLabs/Sia
++ https://gitlab.com/swisspost-evoting/crypto-primitives
